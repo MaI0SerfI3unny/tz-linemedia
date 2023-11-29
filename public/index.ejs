@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Autoline test project</title>
+    <link rel="stylesheet" href="bootstrap.css"/>
+    <link rel="stylesheet" href="index.css"/>
+</head>
+<body>
+<main class="app">
+    <header>
+        <img src="img/logo.png" alt="Autoline" class="logotype">
+    </header>
+    <section class="articles">
+        <div class="container p-0">
+            <% article.forEach(function(item) { %>
+              <div class="article-item col-md-12 mb-3 rounded">
+                <div class="row">
+                    <div class="col-md-4 p-0">
+                        <div class="img_container">
+                            <img class="img-fluid rounded-left" src="<%= item.photo %>" alt="Article Photo">
+                        </div>
+                    </div>
+                    <div class="col-md-8">
+                        <h4 class="p-0 m-0 mt-3"><%= item.title %></h2>
+                        <p><%= item.fields %></p>
+                    </div>
+                </div>
+              </div>
+            <% }); %>
+        </div>
+    </section>
+    <section class="pagination">
+        <% if (parseInt(newPage) != 1){ %>
+            <a class="text-white" href="/?page=<%= parseInt(newPage) - 1 %>">
+                <button class="pagination-button pagination-prev">
+                    < Попередня
+                </button>
+            </a>
+        <% } %>
+        <% if (parseInt(newPage) != totalPages){ %>
+            <a class="text-white" href="/?page=<%= parseInt(newPage) + 1 %>">
+                <button class="pagination-button pagination-next">
+                    Наступна >
+                </button>
+            </a>
+        <% } %>
+    </section>
+</main>
+<script type="text/javascript" src="index.js"></script>
+</body>
+</html>

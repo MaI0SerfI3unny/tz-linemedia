@@ -1,0 +1,71 @@
+*, :after, :before {
+    box-sizing: border-box;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+button, input[type="submit"], input[type="reset"] {
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+}
+
+body {
+    background: #f5f6f7;
+    font-family: Arial, Tahoma, Lucida Grande, Lucida Sans, sans-serif;
+    padding: 20px;
+    background: #F0F0F0;
+}
+
+.app {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+.logotype {
+    width: 150px;
+}
+
+.articles {
+    margin-top: 30px;
+}
+
+.article-item{
+    background: white;
+}
+
+.article-item p{
+    color: grey;
+}
+
+.img_container{
+    height: 174px;
+    overflow: hidden;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    column-gap: 10px;
+}
+
+.pagination-button {
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    background: rgb(40, 123, 209);
+    border-radius: 5px;
+    padding: 7px 10px;
+}

@@ -1,0 +1,124 @@
+{
+    "articles" : [
+        {
+            "id": "27495817360",
+            "title": "DAF LF 150",
+            "fields": "Євро Euro 6, Підвіска ресора/ресора",
+            "photo": "/img/photo1.jpg"
+        },
+        {
+            "id": "84926173025",
+            "title": "DAF CF 370",
+            "fields": "Євро Euro 5, Вантажопід. 18000 кг",
+            "photo": "/img/photo2.jpg"
+        },
+        {
+            "id": "91572608346",
+            "title": "DAF XF 480 FTX",
+            "fields": "Євро Euro 6, Підвіска пневмо/пневмо",
+            "photo": "/img/photo3.jpg"
+        },
+        {
+            "id": "23947610285",
+            "title": "DAF CF 440",
+            "fields": "Євро Euro 4, Вантажопід. 12000 кг",
+            "photo": "/img/photo4.jpg"
+        },
+        {
+            "id": "68234709152",
+            "title": "DAF XF 530 FTS",
+            "fields": "Євро Euro 3, Підвіска ресора/ресора",
+            "photo": "/img/photo5.jpg"
+        },
+        {
+            "id": "71359280415",
+            "title": "DAF LF 220",
+            "fields": "Євро Euro 6, Вантажопід. 7500 кг",
+            "photo": "/img/photo6.jpg"
+        },
+        {
+            "id": "84921037525",
+            "title": "DAF XF 460 FT",
+            "fields": "Євро Euro 5, Підвіска пневмо/пневмо",
+            "photo": "/img/photo7.jpg"
+        },
+        {
+            "id": "10529738462",
+            "title": "DAF CF 440 FAN",
+            "fields": "Євро Euro 4, Вантажопід. 16000 кг",
+            "photo": "/img/photo8.jpg"
+        },
+        {
+            "id": "49281735690",
+            "title": "DAF FT XF440 ADR",
+            "fields": "Євро Euro 6, Підвіска ресора/ресора",
+            "photo": "/img/photo9.jpg"
+        },
+        {
+            "id": "12639487520",
+            "title": "DAF CF 85 460 + цистерна ПММ",
+            "fields": "Євро Euro 5, Вантажопід. 19000 кг",
+            "photo": "/img/photo10.jpg"
+        },
+        {
+            "id": "34562718901",
+            "title": "DAF XF 105 ADR",
+            "fields": "Євро Euro 5, Вантажопід. 13200 кг",
+            "photo": "/img/photo1.jpg"
+        },
+        {
+            "id": "92837465012",
+            "title": "DAF LF 250",
+            "fields": "Євро Euro 6, Підвіска пневмо/пневмо",
+            "photo": "/img/photo2.jpg"
+        },
+        {
+            "id": "47382910564",
+            "title": "DAF CF 85.410",
+            "fields": "Євро Euro 4, Вантажопід. 18000 кг",
+            "photo": "/img/photo3.jpg"
+        },
+        {
+            "id": "29384756102",
+            "title": "DAF XF 480 FT",
+            "fields": "Євро Euro 6, Підвіска ресора/ресора",
+            "photo": "/img/photo4.jpg"
+        },
+        {
+            "id": "65748293011",
+            "title": "DAF CF 440 FT",
+            "fields": "Євро Euro 5, Вантажопід. 15000 кг",
+            "photo": "/img/photo5.jpg"
+        },
+        {
+            "id": "48392015672",
+            "title": "DAF XF 105",
+            "fields": "Євро Euro 5, Підвіска пневмо/пневмо",
+            "photo": "/img/photo6.jpg"
+        },
+        {
+            "id": "29384756103",
+            "title": "DAF LF 180",
+            "fields": "Євро Euro 6, Вантажопід. 7500 кг",
+            "photo": "/img/photo7.jpg"
+        },
+        {
+            "id": "65748293012",
+            "title": "DAF CF 530 FTT",
+            "fields": "Євро Euro 6, Підвіска ресора/ресора",
+            "photo": "/img/photo8.jpg"
+        },
+        {
+            "id": "58392015679",
+            "title": "DAF LF 210",
+            "fields": "Євро Euro 5, Вантажопід. 9500 кг",
+            "photo": "/img/photo9.jpg"
+        },
+        {
+            "id": "28374561920",
+            "title": "DAF XF 460",
+            "fields": "Євро Euro 6, Підвіска пневмо/пневмо",
+            "photo": "/img/photo10.jpg"
+        }
+    ]
+}
